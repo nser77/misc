@@ -1,7 +1,7 @@
 # misc
 A collection of minor scripts.
 
-## BASH
+## bash
 Collection of bash scripts:
 
-- [Netcat](bash/nc)
+- [netcat](bash/nc)
