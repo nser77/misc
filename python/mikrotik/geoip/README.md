@@ -1,6 +1,6 @@
 # GeoIP
 
-Proof-of-concept
+A useful way to integrate python and bash.
 
 # What do you need?
 - [A MaxMind license key](https://www.maxmind.com/en/account/login)
