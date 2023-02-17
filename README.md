@@ -5,6 +5,7 @@ A collection of minor scripts.
 Collection of bash scripts:
 
 - [netcat](bash/nc)
+- [ssh](bash/ssh)
 
 ## php
 Collection of php scripts:
