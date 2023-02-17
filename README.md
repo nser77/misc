@@ -15,4 +15,3 @@ Collection of php scripts:
 Collection of python scripts:
 
 - [mikrotik](python/mikrotik)
-- [sip](python/sip)
