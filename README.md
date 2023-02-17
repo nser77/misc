@@ -4,4 +4,4 @@ A collection of minor scripts.
 ## BASH
 Collection of bash scripts:
 
-- [Overview](bash/)
+- [Netcat](bash/nc)
