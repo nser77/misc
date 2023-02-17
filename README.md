@@ -5,3 +5,9 @@ A collection of minor scripts.
 Collection of bash scripts:
 
 - [netcat](bash/nc)
+
+## python
+Collection of python scripts:
+
+- [mikrotik](python/mikrotik)
+- [sip](python/sip)
