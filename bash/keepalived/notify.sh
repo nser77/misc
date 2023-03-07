@@ -25,7 +25,6 @@ if [[ ! -d $SCRIPT_DIR/$action ]]; then exit 1; fi
 scripts_d_path=$SCRIPT_DIR/$action
 
 if [[ ! $(ls $scripts_d_path | wc -l) == 0 ]]; then
-        echo "ok"
         for i in $scripts_d_path/*; do
                 if [[ -f $i ]]; then
                         if [[ -x $i ]]; then
