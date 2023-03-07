@@ -6,6 +6,7 @@ Bash scripts:
 
 - [netcat](bash/nc)
 - [ssh](bash/ssh)
+- [keepalived](bash/keepalived)
 
 ## php
 PHP scripts:
